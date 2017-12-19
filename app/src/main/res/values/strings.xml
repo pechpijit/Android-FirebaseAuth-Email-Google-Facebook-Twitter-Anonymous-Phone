@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Management Fish Tank</string>
+
+    <string name="facebook_app_id">134465713889631</string>
+    <string name="fb_login_protocol_scheme">fb134465713889631</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">50xgWCxQ2dBmBn5REJUjlaQNt</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">cxO2MHIhprwagRDInjl8YJWPixrOIAfjEML0B7wsuegt8J6OUD</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_logout">Logout</string>
+</resources>
